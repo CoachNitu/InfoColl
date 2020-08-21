@@ -19,5 +19,19 @@ SETPS FOR INSTALLATION
 
 
 git clone https://github.com/Nitutec/InfoColl
+
+
+
+
+
+
+
+
 Cd InfoColl
+
+
+
+
+
+
 python InfoColl.py
