@@ -5,7 +5,7 @@ You can get information about your device or someone others in seconds by using 
 
 
 
-This program was created by Nitiraj Kulakrni
+This program was created by Nitiraj Kulkarni
 Feel free to use it just remember to give credits
 If you would like to donate me you can donate me by paypal
                              ==>https://www.paypal.me/VasudeoKulkarni
@@ -14,8 +14,10 @@ If you would like to donate me you can donate me by paypal
 
 
 
-===================================================================
+===========================================================================
 SETPS FOR INSTALLATION
 
 
-git clone 
+git clone https://github.com/Nitutec/InfoColl
+Cd InfoColl
+python InfoColl.py
