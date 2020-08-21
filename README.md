@@ -9,12 +9,12 @@ This program was created by Nitiraj Kulakrni
 Feel free to use it just remember to give credits
 If you would like to donate me you can donate me by paypal
                              ==>https://www.paypal.me/VasudeoKulkarni
-                             (Its my fathers account)
+                             
 
 
 
 
-=====================================================================================
+===================================================================
 SETPS FOR INSTALLATION
 
 
