@@ -58,7 +58,7 @@ def slowprint(s):
         time.sleep(3. / 100)
 
 
-slowprint("\t\t                                                   \033[93mBy :Nitiraj kulkarni")
+slowprint("\t\t                                                   \033[93mBy :Nitu")
 
 print('')
 print("Press Enter to collect info about this device")
