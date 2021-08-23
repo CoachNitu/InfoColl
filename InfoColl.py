@@ -107,7 +107,7 @@ print("")
 print("")
 print("Text file is generated")
 print("")
-print("FOR DONATIONS: https://www.paypal.me/VasudeoKulkarni ")
+print("FOR DONATIONS: Contact Nitu on discord")
 print("")
 input('Press ENTER to exit')
 
